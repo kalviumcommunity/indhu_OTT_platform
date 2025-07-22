@@ -35,7 +35,6 @@ The platform will aim to provide a seamless, modern entertainment experience —
 | **Day 1** | Project setup: initialize GitHub repo, create README, plan roadmap |
 | **Day 2** | Design UI wireframes & user journey in Figma |
 | **Day 3** | Finalize UI design: screens for homepage, movie player, comic viewer |
-| **Day 4** | Set up React frontend: components for home, movie listing, music, comics |
 | **Day 5** | Build backend APIs using Express.js and MongoDB for content handling |
 | **Day 6** | Connect frontend with backend (API integration) |
 | **Day 7** | Implement video player & music streaming modules |
